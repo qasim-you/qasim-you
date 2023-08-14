@@ -1,7 +1,7 @@
 ![logo](https://github.com/qasim-you/qasim-you/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Qasim</h1>
 <h3 align="center">A passionate frontend developer from Pakistam</h3>
-<img align = "right" width = "400" alt = "coding" src = "https://github.com/qasim-you/qasim-you/blob/main/image.png">
+<img align = "right" width = "400" alt = "coding" src = "https://github.com/qasim-you/qasim-you/blob/main/banner.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qasim-you&label=Profile%20views&color=0e75b6&style=flat" alt="qasim-you" /> </p>
 
