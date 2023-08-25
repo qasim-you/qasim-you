@@ -42,10 +42,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-you&" alt="qasim-you" /></p>
 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+![logo]() 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
