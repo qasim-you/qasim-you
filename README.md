@@ -25,9 +25,14 @@
 
 <h3 align="left">Support:</h3>
 # 📊 GitHub Stats:
-<div align=center>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=qasim-you&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=qasim-you&theme=tokyonight&hide_border=true" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=qasim-you&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=qasim-you&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qasim-you&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=qasim-you&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
