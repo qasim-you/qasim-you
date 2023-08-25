@@ -25,14 +25,12 @@
 
 <h3 align="left">Support:</h3>
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=qasim-you&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=qasim-you&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qasim-you&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=qasim-you&icon=0&color=0)](https://visitcount.itsvg.in)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qasim-you&show_icons=true&locale=en&layout=compact" alt="qasim-you" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qasim-you&show_icons=true&locale=en" alt="qasim-you" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-you&" alt="qasim-you" /></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
