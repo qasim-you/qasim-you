@@ -1,4 +1,4 @@
-![logo](https://github.com/qasim-you/qasim-you/blob/main/github-header-image.png)
+![logo](https://github.com/qasim-you/qasim-you/blob/main/github-header-image.png) 
 <h1 align="center">Hi 👋, I'm Muhammad Qasim</h1> 
 <h3 align="center">A passionate Full developer from Pakistam</h3>
 <img align = "right" alt = "coding" width = "400"  src = "https://github.com/qasim-you/qasim-you/blob/main/img.gif">
