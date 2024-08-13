@@ -1,6 +1,6 @@
   ![logo](https://github.com/qasim-you/qasim-you/blob/main/dino.gif) 
 <h1 align="center">Hi 👋, I'm Muhammad Qasim</h1> 
-<h3 align="center">A passionate Full developer from Pakistam</h3>
+<h3 align="center">A passionate developer from Pakistam</h3>
 <img align = "right" alt = "coding" width = "400"  src = "https://github.com/qasim-you/qasim-you/blob/main/img.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qasim-you&label=Profile%20views&color=0e75b6&style=flat" alt="qasim-you" /> </p>
 
