@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React js Next js**
 
-- 👯 I’m looking to collaborate on [Social Media](https://taptop.netlify.app/)
+- 👯 I’m looking to collaborate on [Social Media](https://qasim-developer.vercel.app/)
 
 - ⚡ Fun fact **I am Funny 😀**
 
