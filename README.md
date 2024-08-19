@@ -19,10 +19,9 @@
 <a href="https://www.instagram.com/qasimyousaf940/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qasim yousaf" height="30" width="40" /></a>
 </p>
 <p align="center">
-  <a href="https://blog.mphomphego.co.za/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
-  <a href= "https://dev.to/mmphego"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-  <a href="mailto:mpho@mphomphego.co.za"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mphomphego"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://qasim-developer.vercel.app/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
+ 
+  <a href="https://www.linkedin.com/in/muhammad-qasim-600875271/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
   
   <a href="https://www.youtube.com/c/MphoMphego1?sub_confirmation=1"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
   <a href="https://twitter.com/mphomphego"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
