@@ -4,11 +4,11 @@
 <img align = "right" alt = "coding" width = "400"  src = "https://github.com/qasim-you/qasim-you/blob/main/img.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qasim-you&label=Profile%20views&color=0e75b6&style=flat" alt="qasim-you" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://taptop.netlify.app/)
+- 🔭 I’m currently working on [Social |Media App](https://taptop.netlify.app/)
 
 - 🌱 I’m currently learning **React js Next js**
 
-- 👯 I’m looking to collaborate on [Social Media](https://qasim-developer.vercel.app/)
+- 👯 I’m looking to collaborate on [Portfolio](https://qasim-developer.vercel.app/)
 
 - ⚡ Fun fact **I am Funny 😀**
 
