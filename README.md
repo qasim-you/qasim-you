@@ -1,4 +1,14 @@
-![Dinosaur Animation](https://github.com/qasim-you/qasim-you/blob/main/dino.gif)
+'use client'
+
+import { Button } from "@/components/ui/button"
+import { Card } from "@/components/ui/card"
+import { Copy } from 'lucide-react'
+import { useState } from "react"
+
+export default function EnhancedReadmeDisplay() {
+  const [copied, setCopied] = useState(false)
+  
+  const readmeContent = `![Dinosaur Animation](https://github.com/qasim-you/qasim-you/blob/main/dino.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Qasim</h1>
 <h3 align="center">A Full Stack Developer with 2 Years of Experience | AI & Mobile Development Enthusiast</h3>
@@ -26,60 +36,80 @@
 
 ## 💻 Technical Skills
 
-### Programming Languages
-- Python (Advanced Data Structures, AI/ML Applications)
-- JavaScript/TypeScript (Full Stack Development)
-- C/C++ (System Programming)
-- Java (Enterprise Applications)
+| Category | Skills |
+|----------|--------|
+| Programming Languages | Python, JavaScript/TypeScript, C/C++, Java |
+| Frontend Development | React.js, Next.js, React Native, Tailwind CSS, Bootstrap, HTML5/CSS3 |
+| Backend & Database | Node.js, Express.js, MongoDB, MySQL, Firebase |
+| AI & Machine Learning | AI Agents, NLP, Machine Learning Models, Data Analysis & Visualization |
+| DevOps & Tools | Git, Docker, AWS, CI/CD pipelines |
 
-### Frontend Development
-- React.js & Next.js (Production-grade Applications)
-- React Native (Cross-platform Mobile Development)
-- Tailwind CSS & Bootstrap (Responsive Design)
-- HTML5/CSS3 (Modern Web Standards)
+## 🛠 Technologies & Tools
 
-### Backend & Database
-- Node.js & Express.js (RESTful APIs)
-- MongoDB & MySQL (Database Design)
-- Firebase (Real-time Applications)
-- API Integration & Microservices
-
-### AI & Machine Learning
-- AI Agents Development
-- Natural Language Processing
-- Machine Learning Models
-- Data Analysis & Visualization
-
-### Tools & Technologies
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    <!-- [Previous technology icons remain the same] -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
 </p>
 
 ## 🤝 Connect with Me
 
 <p align="center">
-    <a href="https://qasim-developer.vercel.app/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="website"/></a>
-    <a href="https://www.linkedin.com/in/muhammad-qasim-600875271/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-    <a href="https://www.instagram.com/qasimyousaf940/"><img src="https://img.icons8.com/color/32/000000/instagram.png" alt="instagram"/></a>
+    <a href="https://qasim-developer.vercel.app/"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="website"/></a>
+    <a href="https://www.linkedin.com/in/muhammad-qasim-600875271/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+    <a href="https://www.instagram.com/qasimyousaf940/"><img src="https://img.icons8.com/color/48/000000/instagram.png" alt="instagram"/></a>
 </p>
 
 ## 📊 GitHub Stats
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qasim-you&show_icons=true&locale=en&layout=compact&theme=dark" alt="qasim-you" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qasim-you&show_icons=true&locale=en&layout=compact&theme=dark" alt="qasim-you" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=qasim-you&show_icons=true&locale=en&theme=dark" alt="qasim-you" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=qasim-you&show_icons=true&locale=en&theme=dark" alt="qasim-you" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-you&theme=dark" alt="qasim-you" />
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-you&theme=dark" alt="qasim-you" />
 </p>
 
-![GitHub Snake Animation](https://github.com/qasim-you/qasim-you/blob/main/github-snake-dark.svg)
+![GitHub Snake Animation](https://github.com/qasim-you/qasim-you/blob/main/github-snake-dark.svg)`
+
+  const copyToClipboard = async () => {
+    try {
+      await navigator.clipboard.writeText(readmeContent)
+      setCopied(true)
+      setTimeout(() => setCopied(false), 2000)
+    } catch (err) {
+      console.error('Failed to copy:', err)
+    }
+  }
+
+  return (
+    <Card className="w-full max-w-4xl mx-auto p-6">
+      <div className="flex justify-between items-center mb-4">
+        <h2 className="text-2xl font-bold">Enhanced GitHub Profile README</h2>
+        <Button
+          onClick={copyToClipboard}
+          variant="outline"
+          className="flex items-center gap-2"
+        >
+          <Copy className="w-4 h-4" />
+          {copied ? 'Copied!' : 'Copy Code'}
+        </Button>
+      </div>
+      <pre className="bg-muted p-4 rounded-lg overflow-x-auto">
+        <code className="text-sm">{readmeContent}</code>
+      </pre>
+    </Card>
+  )
+}
+
