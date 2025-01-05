@@ -26,6 +26,10 @@
 
 ## 💻 Technical Skills
 
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+
+<div style="width: 48%;">
+
 ### Frontend Development
 | Technology | Skill Level | Tools & Frameworks |
 |------------|-------------|-------------------|
@@ -43,6 +47,10 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/> MongoDB | Advanced | Mongoose, Aggregation |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> PostgreSQL | Intermediate | Prisma, Raw SQL |
 | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> Firebase | Advanced | Auth, Firestore |
+
+</div>
+
+<div style="width: 48%;">
 
 ### DevOps & Tools
 | Technology | Skill Level | Tools & Frameworks |
@@ -62,6 +70,9 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> Pandas | Advanced | Data Analysis |
 | <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40"/> NumPy | Advanced | Scientific Computing |
 
+</div>
+
+</div>
 ## 🤝 Connect with Me
 
 <p align="center">
