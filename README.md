@@ -26,28 +26,41 @@
 
 ## 💻 Technical Skills
 
-| Category | Skills |
-|----------|--------|
-| Programming Languages | Python, JavaScript/TypeScript, C/C++, Java |
-| Frontend Development | React.js, Next.js, React Native, Tailwind CSS, Bootstrap, HTML5/CSS3 |
-| Backend & Database | Node.js, Express.js, MongoDB, MySQL, Firebase |
-| AI & Machine Learning | AI Agents, NLP, Machine Learning Models, Data Analysis & Visualization |
-| DevOps & Tools | Git, Docker, AWS, CI/CD pipelines |
+### Frontend Development
+| Technology | Skill Level | Tools & Frameworks |
+|------------|-------------|-------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> React.js | Advanced | Redux, React Query, Hooks |
+| <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/> Next.js | Advanced | App Router, API Routes |
+| <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/> React Native | Intermediate | Expo, Native CLI |
+| <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> Tailwind CSS | Advanced | Custom Configurations |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> TypeScript | Advanced | Type Safety, Generics |
 
-## 🛠 Technologies & Tools
+### Backend Development
+| Technology | Skill Level | Tools & Frameworks |
+|------------|-------------|-------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> Node.js | Advanced | Express, Fastify |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> Python | Advanced | FastAPI, Django |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/> MongoDB | Advanced | Mongoose, Aggregation |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> PostgreSQL | Intermediate | Prisma, Raw SQL |
+| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> Firebase | Advanced | Auth, Firestore |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
-</p>
+### DevOps & Tools
+| Technology | Skill Level | Tools & Frameworks |
+|------------|-------------|-------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> Docker | Intermediate | Compose, Swarm |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> Kubernetes | Basic | Helm, Minikube |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/> AWS | Intermediate | EC2, S3, Lambda |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> Git | Advanced | GitHub Actions |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> Linux | Advanced | Shell Scripting |
+
+### AI & Machine Learning
+| Technology | Skill Level | Tools & Frameworks |
+|------------|-------------|-------------------|
+| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> TensorFlow | Intermediate | Keras |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> PyTorch | Intermediate | Neural Networks |
+| <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> OpenCV | Advanced | Image Processing |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> Pandas | Advanced | Data Analysis |
+| <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40"/> NumPy | Advanced | Scientific Computing |
 
 ## 🤝 Connect with Me
 
@@ -59,16 +72,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qasim-you&show_icons=true&locale=en&layout=compact&theme=dark" alt="qasim-you" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qasim-you&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-you&theme=radical&hide_border=true" />
+</div>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=qasim-you&show_icons=true&locale=en&theme=dark" alt="qasim-you" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasim-you&layout=compact&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qasim-you&theme=radical" />
+</div>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-you&theme=dark" alt="qasim-you" />
-</p>
+<div align="center">
+  <h3>🐍 Contribution Graph</h3>
+  <img src="https://github.com/qasim-you/qasim-you/blob/main/github-snake-dark.svg" />
+</div>
 
-![GitHub Snake Animation](https://github.com/qasim-you/qasim-you/blob/main/github-snake-dark.svg)
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qasim-you&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
