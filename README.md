@@ -1,14 +1,4 @@
-'use client'
-
-import { Button } from "@/components/ui/button"
-import { Card } from "@/components/ui/card"
-import { Copy } from 'lucide-react'
-import { useState } from "react"
-
-export default function EnhancedReadmeDisplay() {
-  const [copied, setCopied] = useState(false)
-  
-  const readmeContent = `![Dinosaur Animation](https://github.com/qasim-you/qasim-you/blob/main/dino.gif)
+![Dinosaur Animation](https://github.com/qasim-you/qasim-you/blob/main/dino.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Qasim</h1>
 <h3 align="center">A Full Stack Developer with 2 Years of Experience | AI & Mobile Development Enthusiast</h3>
@@ -81,35 +71,4 @@ export default function EnhancedReadmeDisplay() {
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-you&theme=dark" alt="qasim-you" />
 </p>
 
-![GitHub Snake Animation](https://github.com/qasim-you/qasim-you/blob/main/github-snake-dark.svg)`
-
-  const copyToClipboard = async () => {
-    try {
-      await navigator.clipboard.writeText(readmeContent)
-      setCopied(true)
-      setTimeout(() => setCopied(false), 2000)
-    } catch (err) {
-      console.error('Failed to copy:', err)
-    }
-  }
-
-  return (
-    <Card className="w-full max-w-4xl mx-auto p-6">
-      <div className="flex justify-between items-center mb-4">
-        <h2 className="text-2xl font-bold">Enhanced GitHub Profile README</h2>
-        <Button
-          onClick={copyToClipboard}
-          variant="outline"
-          className="flex items-center gap-2"
-        >
-          <Copy className="w-4 h-4" />
-          {copied ? 'Copied!' : 'Copy Code'}
-        </Button>
-      </div>
-      <pre className="bg-muted p-4 rounded-lg overflow-x-auto">
-        <code className="text-sm">{readmeContent}</code>
-      </pre>
-    </Card>
-  )
-}
-
+![GitHub Snake Animation](https://github.com/qasim-you/qasim-you/blob/main/github-snake-dark.svg)
