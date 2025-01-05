@@ -61,15 +61,6 @@
 | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> Git | Advanced | GitHub Actions |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> Linux | Advanced | Shell Scripting |
 
-### AI & Machine Learning
-| Technology | Skill Level | Tools & Frameworks |
-|------------|-------------|-------------------|
-| <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> TensorFlow | Intermediate | Keras |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> PyTorch | Intermediate | Neural Networks |
-| <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> OpenCV | Advanced | Image Processing |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> Pandas | Advanced | Data Analysis |
-| <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40"/> NumPy | Advanced | Scientific Computing |
-
 </div>
 
 </div>
