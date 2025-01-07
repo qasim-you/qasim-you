@@ -89,16 +89,13 @@
 ## 🏆 Hackathon Achievements
 
 <div align="center">
-  <img src="![Uploading image.png…]()
-" alt="Lab Lab AI Hackathon" width="100%" />
+  <img src="https://github.com/qasim-you/qasim-you/raw/main/hackathon1.png" alt="Lab Lab AI Hackathon" width="100%" />
   <h3>Lab Lab AI Hackathon</h3>
   
-  <img src="![image](https://github.com/user-attachments/assets/461e6046-d6a1-420a-ad6c-861a1b207d49)
-" alt="International Tech Challenge" width="100%" />
+  <img src="https://github.com/qasim-you/qasim-you/raw/main/hackathon2.png" alt="International Tech Challenge" width="100%" />
   <h3>International Tech Challenge</h3>
   
-  <img src="![image](https://github.com/user-attachments/assets/5526b47f-8f9b-48ea-9e89-d515a5e83fd0)
-" alt="Global AI Competition" width="100%" />
+  <img src="https://github.com/qasim-you/qasim-you/raw/main/hackathon3.png" alt="Global AI Competition" width="100%" />
   <h3>Global AI Competition</h3>
 </div>
 
