@@ -98,20 +98,17 @@
     <tr>
       <td align="center">
         <a href="https://lablab.ai/" target="_blank">
-          <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/main/k7g.webp" alt="Lab Lab AI Hackathon" width="300px">
-          <h3>Lab Lab AI Hackathon</h3>
+          <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/main/k7g.webp" alt="Lab Lab AI Hackathon" width="400px">
         </a>
       </td>
       <td align="center">
         <a href="https://international-tech-challenge.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/refs/heads/main/undefined_thumbnailLink_i82cd03t7.webp" alt="International Tech Challenge" width="300px">
-          <h3>International Tech Challenge</h3>
+          <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/refs/heads/main/undefined_thumbnailLink_i82cd03t7.webp" alt="International Tech Challenge" width="400px">
         </a>
       </td>
       <td align="center">
         <a href="https://global-ai-competition.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/refs/heads/main/clw13vm5r001k356t6lox3ahz_thumbnailLink_aa3c019b.webp" alt="Global AI Competition" width="300px">
-          <h3>Global AI Competition</h3>
+          <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/refs/heads/main/clw13vm5r001k356t6lox3ahz_thumbnailLink_aa3c019b.webp" alt="Global AI Competition" width="400px">
         </a>
       </td>
     </tr>
