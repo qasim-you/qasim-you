@@ -1,4 +1,4 @@
-  ![Dinosaur Animation](https://github.com/qasim-you/qasim-you/blob/main/dino.gif)
+ ![Dinosaur Animation](https://github.com/qasim-you/qasim-you/blob/main/dino.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Qasim</h1>
 <h3 align="center">A Full Stack Developer with 2 Years of Experience | AI & Mobile Development Enthusiast</h3>
@@ -90,10 +90,10 @@
     <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/main/k7g.webp" width="390">
   <h3>Lab Lab AI Hackathon</h3>
   
-  <img src="https://github.com/qasim-you/qasim-you/raw/main/hackathon2.png" alt="International Tech Challenge" width="100%" />
+    <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/main/gemini-hacathon.webp" width="390">
   <h3>International Tech Challenge</h3>
   
-  <img src="https://github.com/qasim-you/qasim-you/raw/main/hackathon3.png" alt="Global AI Competition" width="100%" />
+    <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/main/hacathon1.webp" width="390">
   <h3>Global AI Competition</h3>
 </div>
 
