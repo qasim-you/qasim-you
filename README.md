@@ -87,7 +87,7 @@
 ## 🏆 Hackathon Achievements
 
 <div align="center">
-  <img src="k7.webp" alt="Lab Lab AI Hackathon" width="100%" />
+![Alt Text](https://raw.githubusercontent.com/qasim-you/qasim-you/main/k7.webp)
   <h3>Lab Lab AI Hackathon</h3>
   
   <img src="https://github.com/qasim-you/qasim-you/raw/main/hackathon2.png" alt="International Tech Challenge" width="100%" />
