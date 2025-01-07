@@ -26,11 +26,13 @@
 
 ## 💻 Technical Skills
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div align="center">
+  
+## 🚀 **Technical Expertise**
 
-<div style="width: 48%;">
+---
 
-### Frontend Development
+### 🖥️ **Frontend Development**
 | Technology | Skill Level | Tools & Frameworks |
 |------------|-------------|-------------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> React.js | Advanced | Redux, React Query, Hooks |
@@ -39,7 +41,9 @@
 | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> Tailwind CSS | Advanced | Custom Configurations |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> TypeScript | Advanced | Type Safety, Generics |
 
-### Backend Development
+---
+
+### ⚙️ **Backend Development**
 | Technology | Skill Level | Tools & Frameworks |
 |------------|-------------|-------------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> Node.js | Advanced | Express, Fastify |
@@ -48,11 +52,9 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> PostgreSQL | Intermediate | Prisma, Raw SQL |
 | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> Firebase | Advanced | Auth, Firestore |
 
-</div>
+---
 
-<div style="width: 48%;">
-
-### DevOps & Tools
+### 🛠️ **DevOps & Tools**
 | Technology | Skill Level | Tools & Frameworks |
 |------------|-------------|-------------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> Docker | Intermediate | Compose, Swarm |
@@ -61,7 +63,10 @@
 | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> Git | Advanced | GitHub Actions |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> Linux | Advanced | Shell Scripting |
 
+---
+
 </div>
+
 
 </div>
 ## 🤝 Connect with Me
