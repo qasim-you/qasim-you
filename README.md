@@ -89,17 +89,25 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qasim-you&theme=radical" />
 </div>
 
-## 🏆 Hackathon Achievements
+## 🏆 **Hackathon Achievements**
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/main/k7g.webp" width="390">
-  <h3>Lab Lab AI Hackathon</h3>
-      <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/refs/heads/main/undefined_thumbnailLink_i82cd03t7.webp" width="390">
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
 
-  <h3>International Tech Challenge</h3>
-    <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/refs/heads/main/clw13vm5r001k356t6lox3ahz_thumbnailLink_aa3c019b.webp" width="390">
-  
-  <h3>Global AI Competition</h3>
+  <a href="https://lablab.ai/" target="_blank">
+    <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/main/k7g.webp" alt="Lab Lab AI Hackathon" width="30%">
+    <h3>Lab Lab AI Hackathon</h3>
+  </a>
+
+  <a href="https://international-tech-challenge.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/refs/heads/main/undefined_thumbnailLink_i82cd03t7.webp" alt="International Tech Challenge" width="30%">
+    <h3>International Tech Challenge</h3>
+  </a>
+
+  <a href="https://global-ai-competition.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/refs/heads/main/clw13vm5r001k356t6lox3ahz_thumbnailLink_aa3c019b.webp" alt="Global AI Competition" width="30%">
+    <h3>Global AI Competition</h3>
+  </a>
+
 </div>
 
 <div align="center">
