@@ -77,21 +77,24 @@
     <a href="https://www.instagram.com/qasimyousaf940/"><img src="https://img.icons8.com/color/48/000000/instagram.png" alt="instagram"/></a>
 </p>
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qasim-you&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-you&theme=radical&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qasim-you&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-you&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasim-you&layout=compact&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qasim-you&theme=radical" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasim-you&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qasim-you&theme=tokyonight" />
+
 </div>
 
 ## 🏆 **Hackathon Achievements**
 
-## 🏆 **Hackathon Achievements**
 
 <div align="center">
   <table>
