@@ -92,7 +92,7 @@
       <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/refs/heads/main/undefined_thumbnailLink_i82cd03t7.webp" width="390">
 
   <h3>International Tech Challenge</h3>
-    <img src="[https://raw.githubusercontent.com/qasim-you/qasim-you/main/gemini-hacathon.webp](https://github.com/qasim-you/qasim-you/blob/main/undefined_thumbnailLink_i82cd03t7.webp)" width="390">
+    <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/refs/heads/main/clw13vm5r001k356t6lox3ahz_thumbnailLink_aa3c019b.webp" width="390">
   
   <h3>Global AI Competition</h3>
 </div>
