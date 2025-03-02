@@ -1,4 +1,4 @@
-   ![Dinosaur Animation](https://github.com/qasim-you/qasim-you/blob/main/dino.gif)
+    ![Dinosaur Animation](https://github.com/qasim-you/qasim-you/blob/main/dino.gif)
  
 <h1 align="center">Hi 👋, I'm Muhammad Qasim</h1>
 <h3 align="center">A Full Stack Developer with 2 Years of Experience | AI & Mobile Development Enthusiast</h3>
@@ -15,7 +15,6 @@
 - 🌱 Expanding expertise in **AI Agents, React Native, and Advanced Python**
 - 👯 Open to collaborate on innovative projects - Check out my [Portfolio](https://qasim-developer.vercel.app/)
 - 🏆 Proud participant in 3 International Hackathons
-- 💡 Passionate about building scalable applications and AI solutions
 - ⚡ Fun fact: I turn coffee into code! ☕
 
 ## 🏆 Hackathon Achievements
