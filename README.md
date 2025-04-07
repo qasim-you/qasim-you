@@ -1,100 +1,126 @@
-<div align="center">
-  <h1>Muhammad Qasim</h1>
-  <h3>Full Stack Developer | AI & Mobile Development Specialist</h3>
-  <p>2+ years of experience building scalable web and mobile applications</p>
-</div>
+![Dinosaur Animation](https://github.com/qasim-you/qasim-you/blob/main/dino.gif)
 
-<div align="center">
-  <a href="https://github.com/qasim-you">
-    <img src="https://img.shields.io/github/followers/qasim-you?label=GitHub&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-qasim-600875271/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://qasim-developer.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+<h1 align="center">Hi 👋, I'm Muhammad Qasim</h1>
+<h3 align="center">Full Stack Developer | 2+ Years Experience | AI & Mobile Dev Enthusiast</h3>
+
+<img align="right" alt="coding" width="400" src="https://github.com/qasim-you/qasim-you/blob/main/img.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=qasim-you&label=Profile%20views&color=0e75b6&style=flat" alt="qasim-you" />
+</p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am a Full Stack Developer with over two years of experience, specializing in modern web and mobile application development. My passion lies in leveraging AI and cutting-edge technologies to solve real-world problems. I thrive in collaborative environments and have a proven track record in international hackathons.
-
-- **Current Project**: [Social Media App](https://taptop.netlify.app/)
-- **Learning Focus**: AI Agents, React Native, Advanced Python
-- **Portfolio**: [qasim-developer.vercel.app](https://qasim-developer.vercel.app/)
-- **GitHub**: [github.com/qasim-you](https://github.com/qasim-you)
-
----
-
-## Professional Experience
-
-- **Full Stack Development**: Designed and deployed responsive applications using React.js, Next.js, Node.js, and Python.
-- **Hackathon Achievements**:
-  - Finalist, Global Tech Hackathon 2023
-  - Innovation Award, AI/ML Category
-  - Delivered impactful solutions under tight deadlines
+- 🔭 Currently working on [Social Media App](https://taptop.netlify.app/)
+- 🌱 Expanding expertise in **AI Agents, React Native, and Advanced Python**
+- 👯 Open to collaborate on innovative projects - See my [Portfolio](https://qasim-developer.vercel.app/)
+- 🏆 Proud participant in 3 International Hackathons
+- ⚡ Fun fact: I turn coffee into code! ☕
 
 ---
 
-## Technical Skills
+## 🏆 Hackathon Achievements
+
+- 🥇 Finalist at Global Tech Hackathon 2023
+- 🌟 Innovation Award Winner - AI/ML Category
+- 🚀 Built real-world solutions under tight deadlines
+
+---
+
+## 💻 Technical Skills
 
 <div align="center">
 
-### Frontend Development
-| Technology | Tools & Frameworks |
-|------------|--------------------|
-| React.js   | Redux, React Query, Hooks |
-| Next.js    | App Router, API Routes |
-| React Native | Expo, Native CLI |
-| Tailwind CSS | Custom Configurations |
-| TypeScript | Type Safety, Generics |
+### 🖥️ Frontend Development
+| Technology | Skill Level | Tools & Frameworks |
+|------------|-------------|--------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/> React.js | Advanced | Redux, React Query, Hooks |
+| <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30"/> Next.js | Advanced | App Router, API Routes |
+| <img src="https://reactnative.dev/img/header_logo.svg" width="30"/> React Native | Intermediate | Expo, Native CLI |
+| <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30"/> Tailwind CSS | Advanced | Custom Configurations |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/> TypeScript | Advanced | Type Safety, Generics |
 
-### Backend Development
-| Technology | Tools & Frameworks |
-|------------|--------------------|
-| Node.js    | Express, Fastify |
-| Python     | FastAPI, Django |
-| MongoDB    | Mongoose, Aggregation |
-| PostgreSQL | Prisma, Raw SQL |
-| Firebase   | Authentication, Firestore |
+### ⚙️ Backend Development
+| Technology | Skill Level | Tools & Frameworks |
+|------------|-------------|--------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/> Node.js | Advanced | Express, Fastify |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Python | Advanced | FastAPI, Django |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB | Advanced | Mongoose, Aggregation |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL | Intermediate | Prisma, Raw SQL |
+| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/> Firebase | Advanced | Auth, Firestore |
 
-### DevOps & Tools
-| Technology | Tools & Frameworks |
-|------------|--------------------|
-| Docker     | Compose, Swarm |
-| AWS        | EC2, S3, Lambda |
-| Git        | GitHub Actions |
-| Linux      | Shell Scripting |
+### 🛠️ DevOps & Tools
+| Technology | Skill Level | Tools & Frameworks |
+|------------|-------------|--------------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/> Docker | Intermediate | Compose, Swarm |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="30"/> Kubernetes | Basic | Helm, Minikube |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/> AWS | Intermediate | EC2, S3, Lambda |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/> Git | Advanced | GitHub Actions |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> Linux | Advanced | Shell Scripting |
 
 </div>
 
 ---
 
-## Connect with Me
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://qasim-developer.vercel.app/"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="website"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-qasim-600875271/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/qasimyousaf940/"><img src="https://img.icons8.com/color/48/000000/instagram.png" alt="instagram"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://qasim-developer.vercel.app/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-qasim-600875271/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/qasim-you"><img src="https://img.icons8.com/ios-filled/32/000000/github.png" alt="GitHub"/></a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qasim-you&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-you&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasim-you&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qasim-you&theme=tokyonight" />
 </div>
 
 ---
 
-## GitHub Stats
+## 🏆 Hackathon Highlights
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=qasim-you&show_icons=true&theme=minimal&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasim-you&layout=compact&theme=minimal&hide_border=true" />
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://lablab.ai/" target="_blank">
+          <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/main/k7g.webp" alt="Lab Lab AI Hackathon" width="300">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://international-tech-challenge.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/refs/heads/main/undefined_thumbnailLink_i82cd03t7.webp" alt="International Tech Challenge" width="300">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://global-ai-competition.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/qasim-you/qasim-you/refs/heads/main/clw13vm5r001k356t6lox3ahz_thumbnailLink_aa3c019b.webp" alt="Global AI Competition" width="300">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## Notable Projects
+<div align="center">
+  <h3>🐍 Contribution Graph</h3>
+  <img src="https://github.com/qasim-you/qasim-you/blob/main/github-snake-dark.svg" />
+</div>
 
-- **[Social Media App](https://taptop.netlify.app/)**: A full-stack application built with Next.js and Firebase.
-- **Hackathon Solutions**: Developed AI-driven prototypes for global challenges.
+---
 
-Feel free to explore my repositories on [GitHub](https://github.com/qasim-you) for more details!
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qasim-you&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
