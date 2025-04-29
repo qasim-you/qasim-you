@@ -23,8 +23,8 @@
 
 ## 🏆 Hackathon Achievements
 
-- 🥇 Finalist at Global Tech Hackathon 2023
-- 🌟 Innovation Award Winner - AI/ML Category
+- 🥇 Solved 9/9 Puzzles in Harvard Hacathon
+- 🌟Finalist in the lab lab ai Lama hacathon.
 - 🚀 Built real-world solutions under tight deadlines
 
 ---
