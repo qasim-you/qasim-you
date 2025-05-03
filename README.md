@@ -60,7 +60,6 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> Linux | Advanced | Shell Scripting |
 
 </div>
-
 ---
 
 ## 🤝 Connect with Me
