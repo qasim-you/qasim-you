@@ -9,15 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=qasim-you&label=Profile%20views&color=0e75b6&style=flat" alt="qasim-you" />
 </p>
 ---
-
-## 🚀 About Me
-
-- 🔭 Currently working on [Social Media App](https://taptop.netlify.app/)
-- 🌱 Expanding expertise in **AI Agents, React Native, and Advanced Python**
-- 👯 Open to collaborate on innovative projects - See my [Portfolio](https://qasim-developer.vercel.app/)
-- 🏆 Proud participant in 3 International Hackathons
-- ⚡ Fun fact: I turn coffee into code! ☕
-
 ---
 
 ## 🏆 Hackathon Achievements
