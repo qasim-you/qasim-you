@@ -17,8 +17,6 @@
 - 🌟Finalist in the lab lab ai Lama hacathon.
 - 🚀 Built real-world solutions under tight deadlines
 
----
-
 ## 💻 Technical Skills
 
 <div align="center">
