@@ -1,5 +1,4 @@
 ![Dinosaur Animation](https://github.com/qasim-you/qasim-you/blob/main/dino.gif)
-
 <h1 align="center">Hi 👋, I'm Muhammad Qasim</h1>
 <h3 align="center">Full Stack Developer | 2+ Years Experience | AI & Mobile Dev Enthusiast</h3>
 
