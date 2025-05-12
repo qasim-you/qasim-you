@@ -34,14 +34,6 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL | Intermediate | Prisma, Raw SQL |
 | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/> Firebase | Advanced | Auth, Firestore |
 
-### 🛠️ DevOps & Tools
-| Technology | Skill Level | Tools & Frameworks |
-|------------|-------------|--------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/> Docker | Intermediate | Compose, Swarm |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="30"/> Kubernetes | Basic | Helm, Minikube |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/> AWS | Intermediate | EC2, S3, Lambda |
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/> Git | Advanced | GitHub Actions |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> Linux | Advanced | Shell Scripting |
 
 </div>
 ---
