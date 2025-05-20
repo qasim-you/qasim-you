@@ -6,7 +6,7 @@
 </p>
 
 ## 🏆 Hackathon Achievements
-
+ 
 - 🥇 Solved 9/9 Puzzles in Harvard Hacathon
 - 🌟Finalist in the lab lab ai Lama hacathon.
 - 🚀 Built real-world solutions under tight deadlines
