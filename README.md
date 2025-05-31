@@ -14,7 +14,7 @@
 ## 💻 Technical Skills
 
 <div align="center">
-
+ 
 ### 🖥️ Frontend Development
 | Technology | Skill Level | Tools & Frameworks |
 |------------|-------------|--------------------|
