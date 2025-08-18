@@ -41,7 +41,6 @@
 <p align="center">
   <a href="https://qasim-developer.vercel.app/"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="website"/></a>
   <a href="https://www.linkedin.com/in/muhammad-qasim-600875271/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.instagram.com/qasimyousaf940/"><img src="https://img.icons8.com/color/48/000000/instagram.png" alt="instagram"/></a>
 </p>
 
 ---
