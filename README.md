@@ -1,5 +1,5 @@
 ![Dinosaur Animation](https://github.com/qasim-you/qasim-you/blob/main/dino.gif) 
-<h1 align="center">Hi 👋, I'm Muhammad Qasim</h1> 
+<h1 align="center">I'm Muhammad Qasim</h1> 
 <img align="right" alt="coding" width="400" src="https://github.com/qasim-you/qasim-you/blob/main/img.gif"
 
 ## 🏆 Hackathon Achievements
