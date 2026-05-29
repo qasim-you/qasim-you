@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/qasim-you/qasim-you/blob/main/img.gif"
 ## 🏆 Hackathon Achievements 
 - 🥇 Solved 9/9 Puzzles in Harvard Hacathon
-- 🌟Finalist in the lab lab ai Lama hacathon.
+- 🌟Finalist in the Lab Lab AI Lama hackathon.
 - 🚀 Built real-world solutions under tight deadlines
 
 ## 💻 Technical Skills
