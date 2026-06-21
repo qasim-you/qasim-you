@@ -1,5 +1,4 @@
 <h1 align="center">Muhammad Qasim</h1>
-
 <p align="center">
   VP of AI Systems @ <a href="https://synthapse.ai">Synthapse</a> &nbsp;·&nbsp;
   AI Instructor @ <a href="https://icodeguru.com">iCodeGuru</a> &nbsp;·&nbsp;
