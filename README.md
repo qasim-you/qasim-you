@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-600875271/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=vercel&logoColor=white)](https://qasimcode.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qasim-you)
-&nbsp;📍 Pakistan &nbsp;·&nbsp; 🎓 **Seeking PhD — Fall 2026 / Spring 2027**
+&nbsp;📍 Pakistan &nbsp;·&nbsp; 🎓 **Seeking PhD + RA/TA Position — Fall 2026 / Spring 2027**
 
 </div>
 
@@ -15,19 +15,21 @@
 
 ## About Me
 
-I build production-grade AI systems — from multi-agent LLM pipelines and generative models to ML-based security research. Currently architecting agentic AI infrastructure at [Synthapse](https://synthapse.ai) and teaching applied ML to 100+ students at [iCodeGuru](https://icodeguru.com).
+I build production-grade AI systems and conduct applied ML research — spanning multi-agent LLM pipelines, generative models, and network security. Currently architecting agentic AI infrastructure at [Synthapse](https://synthapse.ai) and teaching applied ML to 100+ students at [iCodeGuru](https://icodeguru.com), where I design curriculum, run live sessions, and mentor student research projects.
 
-My work sits at the intersection of **agentic AI**, **network optimization**, and **real-world ML** — always deployed, always measured.
+I am actively seeking a **funded PhD position with a Research Assistantship (RA) or Teaching Assistantship (TA)** in AI, Machine Learning, or related areas for Fall 2026 / Spring 2027. My work combines strong engineering depth with genuine research curiosity — I build systems to answer questions, not just ship products.
 
 ---
 
 ## 🔬 Research Interests
 
 - Multi-agent coordination and emergent behavior in LLM systems
-- Generative & probabilistic models for structured prediction
-- ML for network security and adversarial traffic analysis
+- Generative & probabilistic models for structured prediction and inverse design
+- ML for network security, adversarial traffic analysis, and privacy-preserving protocols
 - AI for smart infrastructure and cyber-physical systems
 - On-device and edge AI for real-time inference
+
+> 💬 *If you are a professor working in these areas and looking for a motivated RA/TA — I would love to connect.*
 
 ---
 
@@ -49,7 +51,9 @@ Decision intelligence platform for sustainable construction. Parses ICE v3.0 emb
 ### 🔐 DNS-over-QUIC Traffic Fingerprinting
 > **ML Security Research · XGBoost · SHAP Interpretability**
 
-Built an ML pipeline to fingerprint and classify DNS-over-QUIC network traffic — a privacy protocol increasingly used to evade detection. Achieved **90–95% classification accuracy** using XGBoost ensemble methods on real packet captures. Applied SHAP-based interpretability to surface the most discriminative packet-level features, making model decisions fully auditable for security analysis.
+Built an ML pipeline to fingerprint and classify DNS-over-QUIC network traffic — a privacy protocol increasingly adopted to evade detection. Achieved **90–95% classification accuracy** using XGBoost ensemble methods on real packet captures. Applied SHAP-based interpretability to surface the most discriminative packet-level features, making model decisions fully auditable for security analysis.
+
+*This project reflects my research approach: identify a real open problem, collect ground-truth data, build a rigorous ML pipeline, and make the results interpretable.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-F7931A?style=flat-square)
@@ -97,7 +101,7 @@ AI influencer-brand matching platform. Containerized microservices with full CI/
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Recognition
 
 | Year | Competition | Result |
 |------|-------------|--------|
@@ -106,6 +110,19 @@ AI influencer-brand matching platform. Containerized microservices with full CI/
 | 2024 | 🎓 Harvard CS50x Puzzle Day | ✅ **9/9 — Perfect Score (Top 5%)** |
 | 2024 | 🦙 Llama 3 Hackathon — Lablab.ai | 🎖️ **Finalist** |
 | 2023–2026 | 🌐 International AI & ML Competitions | **16+ wins** |
+
+Also served as **hackathon judge & mentor** at HEC, UET Lahore, and iCodeGuru events.
+
+---
+
+## 🎓 Teaching & Mentorship
+
+I treat teaching as a research activity. At iCodeGuru, I:
+- Design and deliver ML curriculum to **100+ students** across cohorts
+- Mentor students through end-to-end research and project development
+- Run structured office hours, evaluate project work, and give structured feedback
+
+This experience directly maps to **Teaching Assistantship** responsibilities in a PhD program — I am not new to the classroom.
 
 ---
 
@@ -118,7 +135,7 @@ AI influencer-brand matching platform. Containerized microservices with full CI/
 > End-to-end AI product development — model integration, API design, and cloud deployment.
 
 **AI Instructor & Mentor** — [iCodeGuru](https://icodeguru.com), USA (Remote) &nbsp;·&nbsp; `2023–Present`
-> Teaching ML fundamentals and applied AI to 100+ students; curriculum design and project mentorship.
+> ML curriculum design, live instruction, and research mentorship for 100+ students.
 
 ---
 
@@ -150,7 +167,8 @@ AI influencer-brand matching platform. Containerized microservices with full CI/
 
 <div align="center">
 
-*Open to PhD collaborations, research discussions, and impactful AI projects.*
+*Actively seeking funded PhD with RA/TA — Fall 2026 / Spring 2027*
+*Open to research collaborations, professor outreach, and impactful AI projects.*
 **[Let's connect →](https://qasimcode.vercel.app)**
 
 </div>
