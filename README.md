@@ -31,17 +31,6 @@ I am actively seeking a **funded PhD position with a Research Assistantship (RA)
 
 > 💬 *If you are a professor working in these areas and looking for a motivated RA/TA, I would love to connect.*
 
----
-
-## 📄 Publications & Preprints
-
-| Status | Title | Venue |
-|--------|-------|-------|
-| In preparation | DNS-over-QUIC Traffic Fingerprinting: An Interpretable ML Approach | arXiv preprint |
-
-> Actively converting applied research projects into peer-reviewable preprints to build a formal publication record ahead of PhD applications.
-
----
 
 ## 🚀 Featured Projects
 
