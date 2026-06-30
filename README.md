@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-600875271/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=vercel&logoColor=white)](https://qasimcode.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qasim-you)
-&nbsp;📍 Pakistan &nbsp;·&nbsp; 🎓 **Seeking PhD + RA/TA Position — Fall 2026 / Spring 2027**
+&nbsp;📍 Pakistan &nbsp;·&nbsp; 🎓 **Seeking Funded PhD (RA/TA) — Fall 2027, US Universities**
 
 </div>
 
@@ -15,21 +15,31 @@
 
 ## About Me
 
-I build production-grade AI systems and conduct applied ML research — spanning multi-agent LLM pipelines, generative models, and network security. Currently architecting agentic AI infrastructure at [Synthapse](https://synthapse.ai) and teaching applied ML to 100+ students at [iCodeGuru](https://icodeguru.com), where I design curriculum, run live sessions, and mentor student research projects.
+I build production-grade AI systems and conduct applied ML research, spanning multi-agent LLM pipelines, generative models, and network security. I currently architect agentic AI infrastructure at [Synthapse](https://synthapse.ai) and teach applied ML to 100+ students at [iCodeGuru](https://icodeguru.com), where I design curriculum, run live sessions, and mentor student research projects.
 
-I am actively seeking a **funded PhD position with a Research Assistantship (RA) or Teaching Assistantship (TA)** in AI, Machine Learning, or related areas for Fall 2026 / Spring 2027. My work combines strong engineering depth with genuine research curiosity — I build systems to answer questions, not just ship products.
+I am actively seeking a **funded PhD position with a Research Assistantship (RA) or Teaching Assistantship (TA)** in AI, Machine Learning, or related areas for Fall 2027 at US universities. My work combines engineering depth with research curiosity. I build systems to answer open questions, not just to ship products, and I am working to formalize that research output into peer-reviewable form.
 
 ---
 
 ## 🔬 Research Interests
 
 - Multi-agent coordination and emergent behavior in LLM systems
-- Generative & probabilistic models for structured prediction and inverse design
+- Generative and probabilistic models for structured prediction and inverse design
 - ML for network security, adversarial traffic analysis, and privacy-preserving protocols
 - AI for smart infrastructure and cyber-physical systems
 - On-device and edge AI for real-time inference
 
-> 💬 *If you are a professor working in these areas and looking for a motivated RA/TA — I would love to connect.*
+> 💬 *If you are a professor working in these areas and looking for a motivated RA/TA, I would love to connect.*
+
+---
+
+## 📄 Publications & Preprints
+
+| Status | Title | Venue |
+|--------|-------|-------|
+| In preparation | DNS-over-QUIC Traffic Fingerprinting: An Interpretable ML Approach | arXiv preprint |
+
+> Actively converting applied research projects into peer-reviewable preprints to build a formal publication record ahead of PhD applications.
 
 ---
 
@@ -49,9 +59,9 @@ Decision intelligence platform for sustainable construction. Parses ICE v3.0 emb
 ---
 
 ### 🔐 DNS-over-QUIC Traffic Fingerprinting
-> **ML Security Research · XGBoost · SHAP Interpretability**
+> **ML Security Research · XGBoost · SHAP Interpretability · arXiv preprint in preparation**
 
-Built an ML pipeline to fingerprint and classify DNS-over-QUIC network traffic — a privacy protocol increasingly adopted to evade detection. Achieved **90–95% classification accuracy** using XGBoost ensemble methods on real packet captures. Applied SHAP-based interpretability to surface the most discriminative packet-level features, making model decisions fully auditable for security analysis.
+Built an ML pipeline to fingerprint and classify DNS-over-QUIC network traffic, a privacy protocol increasingly adopted to evade detection. Achieved **90–95% classification accuracy** using XGBoost, Random Forest, and Extra Trees ensemble methods on real packet captures. Applied SHAP-based interpretability to surface the most discriminative packet-level features, making model decisions fully auditable for security analysis.
 
 *This project reflects my research approach: identify a real open problem, collect ground-truth data, build a rigorous ML pipeline, and make the results interpretable.*
 
@@ -76,8 +86,19 @@ AI-driven system for decentralized network and energy optimization across macro,
 
 ---
 
+### 🧠 IntelliResearch AI
+> **AI-Assisted Research Discovery & Synthesis**
+
+Agentic pipeline built to assist with literature discovery, synthesis, and research workflow automation, applying the same multi-agent design principles used in production systems to an academic research use case.
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1B7F79?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
 ### 🤖 WhatsApp AI Agent
-> **Autonomous Personal Assistant · LangGraph + Gemini 2.5 Flash**
+> **Autonomous Personal Assistant · LangGraph + Gemini 2.5 Flash · 200+ Users**
 
 Autonomous WhatsApp agent with Gmail and Google Calendar integration. LangGraph manages multi-step agent state, Gemini 2.5 Flash handles reasoning, and a Node.js bridge connects to a Python FastAPI backend for tool execution.
 
@@ -111,7 +132,15 @@ AI influencer-brand matching platform. Containerized microservices with full CI/
 | 2024 | 🦙 Llama 3 Hackathon — Lablab.ai | 🎖️ **Finalist** |
 | 2023–2026 | 🌐 International AI & ML Competitions | **16+ wins** |
 
-Also served as **hackathon judge & mentor** at HEC, UET Lahore, and iCodeGuru events.
+---
+
+## 🌍 Leadership, Judging & Extracurricular Activities
+
+- **Hackathon Judge & Mentor** — HEC, UET Lahore, iCodeGuru events
+- **Judge / Mentor** — Pak Angels (startup and innovation mentorship)
+- Active participant in **16+ international hackathons**, with consistent placements across AI, sustainability, and infrastructure tracks
+- Applicant, **International Volunteer Forum 4.0**, Budapest
+- Mentor applicant, **Hack for the Futures**, London Climate Action Week
 
 ---
 
@@ -122,17 +151,17 @@ I treat teaching as a research activity. At iCodeGuru, I:
 - Mentor students through end-to-end research and project development
 - Run structured office hours, evaluate project work, and give structured feedback
 
-This experience directly maps to **Teaching Assistantship** responsibilities in a PhD program — I am not new to the classroom.
+This experience directly maps to **Teaching Assistantship** responsibilities in a PhD program. I am not new to the classroom.
 
 ---
 
 ## 💼 Experience
 
 **VP of AI Systems** — [Synthapse](https://synthapse.ai), Poland (Remote) &nbsp;·&nbsp; `2024–Present`
-> Architecting production multi-agent LLM pipelines at scale using LangGraph and LangChain.
+> Architect production multi-agent LLM pipelines at scale, leading system design for agentic AI infrastructure using LangGraph and LangChain. Translate open-ended technical problems into deployed, evaluated systems, the same iterative problem-to-solution cycle central to research work.
 
 **AI Full-Stack Engineer** — Ingenious Zone, Faisalabad &nbsp;·&nbsp; `2023–Present`
-> End-to-end AI product development — model integration, API design, and cloud deployment.
+> End-to-end AI product development: model integration, API design, and cloud deployment.
 
 **AI Instructor & Mentor** — [iCodeGuru](https://icodeguru.com), USA (Remote) &nbsp;·&nbsp; `2023–Present`
 > ML curriculum design, live instruction, and research mentorship for 100+ students.
@@ -167,7 +196,7 @@ This experience directly maps to **Teaching Assistantship** responsibilities in 
 
 <div align="center">
 
-*Actively seeking funded PhD with RA/TA — Fall 2026 / Spring 2027*
+*Actively seeking a funded PhD with RA/TA — Fall 2027*
 *Open to research collaborations, professor outreach, and impactful AI projects.*
 **[Let's connect →](https://qasimcode.vercel.app)**
 
