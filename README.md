@@ -10,7 +10,6 @@
 &nbsp;📍 Pakistan &nbsp;·&nbsp; 🎓 **Seeking Funded PhD (RA/TA) — Fall 2027, US Universities**
 
 </div>
-
 ---
 
 ## About Me
@@ -30,7 +29,6 @@ I am actively seeking a **funded PhD position with a Research Assistantship (RA)
 - On-device and edge AI for real-time inference
 
 > 💬 *If you are a professor working in these areas and looking for a motivated RA/TA, I would love to connect.*
-
 
 ## 🚀 Featured Projects
 
