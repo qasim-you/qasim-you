@@ -14,7 +14,7 @@
 
 ## About Me
 
-I build production-grade AI systems and conduct applied ML research, spanning multi-agent LLM pipelines, generative models, and network security. I currently architect agentic AI infrastructure at [Synthapse](https://synthapse.ai) and teach applied ML to 100+ students at [iCodeGuru](https://icodeguru.com), where I design curriculum, run live sessions, and mentor student research projects.
+I build production-grade AI systems and conduct applied ML research, spanning multi-agent LLM pipelines, generative models, and network security. I currently architect agentic AI infrastructure at [Synthapse) and teach applied ML to 100+ students at [iCodeGuru](https://icodeguru.com), where I design curriculum, run live sessions, and mentor student research projects.
 
 I am actively seeking a **funded PhD position with a Research Assistantship (RA) or Teaching Assistantship (TA)** in AI, Machine Learning, or related areas for Fall 2027 at US universities. My work combines engineering depth with research curiosity. I build systems to answer open questions, not just to ship products, and I am working to formalize that research output into peer-reviewable form.
 
