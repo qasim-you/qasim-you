@@ -1,5 +1,5 @@
 <div align="center">
-# Muhammad Qasim
+Muhammad Qasim
 
 **VP of AI Systems @ [Synthapse](https://synthapse.ai) &nbsp;·&nbsp; AI Instructor @ [iCodeGuru](https://icodeguru.com) &nbsp;·&nbsp; CS Graduate, GCU Faisalabad**
 
