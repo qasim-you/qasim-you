@@ -1,5 +1,4 @@
 <div align="center">
-
 # Muhammad Qasim
 
 **VP of AI Systems @ [Synthapse](https://synthapse.ai) &nbsp;·&nbsp; AI Instructor @ [iCodeGuru](https://icodeguru.com) &nbsp;·&nbsp; CS Graduate, GCU Faisalabad**
@@ -11,7 +10,6 @@
 
 </div>
 ---
-
 ## About Me
 
 I build production-grade AI systems and conduct applied ML research, spanning multi-agent LLM pipelines, generative models, and network security. I currently architect agentic AI infrastructure at [Synthapse) and teach applied ML to 100+ students at [iCodeGuru](https://icodeguru.com), where I design curriculum, run live sessions, and mentor student research projects.
