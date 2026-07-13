@@ -26,11 +26,11 @@ I am actively seeking a **funded PhD position with a Research Assistantship (RA)
 - AI for smart infrastructure and cyber-physical systems
 - On-device and edge AI for real-time inference
 
-> 💬 *If you are a professor working in these areas and looking for a motivated RA/TA, I would love to connect.*
+>  *If you are a professor working in these areas and looking for a motivated RA/TA, I would love to connect.*
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌿 GreenBuild AI &nbsp;·&nbsp; [GitHub](https://github.com/qasim-you/greenbuild.ai) &nbsp;·&nbsp; [Live](https://greenbuild-ai.vercel.app)
+###  GreenBuild AI &nbsp;·&nbsp; [GitHub](https://github.com/qasim-you/greenbuild.ai) &nbsp;·&nbsp; [Live](https://greenbuild-ai.vercel.app)
 > **🏆 1st Place — UN/IYDO Hack for Earth 2026 (unDavos)**
 
 Decision intelligence platform for sustainable construction. Parses ICE v3.0 embodied carbon data and uses Groq-accelerated Llama 3.3 70B to generate explainable material-swap recommendations with live cost-vs-carbon tradeoff sliders. Addresses the construction industry's 39% share of global carbon emissions through AI-first pre-construction workflow integration.
