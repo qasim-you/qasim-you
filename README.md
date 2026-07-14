@@ -6,7 +6,7 @@ VP of AI Systems @ [Synthapse](https://synthapse.ai) &nbsp;·&nbsp; AI Instructo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-qasim-600875271/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0E7490?style=for-the-badge&logo=vercel&logoColor=white)](https://qasimcode.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qasim-you)
-&nbsp;📍 Pakistan &nbsp;·&nbsp; 🎓 **Seeking Funded PhD (RA/TA) — Fall 2027, US Universities**
+&nbsp;📍 Pakistan &nbsp;·&nbsp;  **Seeking Funded PhD (RA/TA) — Fall 2027, US Universities**
 
 </div>
 ---
@@ -82,7 +82,7 @@ Agentic pipeline built to assist with literature discovery, synthesis, and resea
 
 ---
 
-### 🤖 WhatsApp AI Agent
+### WhatsApp AI Agent
 > **Autonomous Personal Assistant · LangGraph + Gemini 2.5 Flash · 200+ Users**
 
 Autonomous WhatsApp agent with Gmail and Google Calendar integration. LangGraph manages multi-step agent state, Gemini 2.5 Flash handles reasoning, and a Node.js bridge connects to a Python FastAPI backend for tool execution.
