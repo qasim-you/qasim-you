@@ -119,7 +119,7 @@ AI influencer-brand matching platform. Containerized microservices with full CI/
 
 ---
 
-## 🌍 Leadership, Judging & Extracurricular Activities
+##  ]Leadership, Judging & Extracurricular Activities
 
 - **Hackathon Judge & Mentor** — HEC, UET Lahore, iCodeGuru events
 - **Judge / Mentor** — Pak Angels (startup and innovation mentorship)
@@ -152,7 +152,6 @@ This experience directly maps to **Teaching Assistantship** responsibilities in 
 > ML curriculum design, live instruction, and research mentorship for 100+ students.
 
 ---
-
 ## 🛠️ Tech Stack
 
 | Domain | Tools |
