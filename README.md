@@ -175,11 +175,9 @@ This experience directly maps to **Teaching Assistantship** responsibilities in 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-you&theme=tokyonight&hide_border=true" />
 </div>
-
 ---
 
 <div align="center">
-
 *Actively seeking a funded PhD with RA/TA — Fall 2027*
 *Open to research collaborations, professor outreach, and impactful AI projects.*
 **[Let's connect →](https://qasimcode.vercel.app)**
