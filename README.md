@@ -61,7 +61,7 @@ Built an ML pipeline to fingerprint and classify DNS-over-QUIC network traffic, 
 ### 🕸️ Nexus — Multi-Agent Network & Energy Optimization &nbsp;·&nbsp; [GitHub](https://github.com/Synthapse/Nexus)
 > **Synthapse R&D · Deployed on Google Cloud**
 
-AI-driven system for decentralized network and energy optimization across macro, medium, and micro scales. Autonomous agents communicate peer-to-peer: PSO agents optimize WiFi tower placement, ACO agents find lowest-latency routing paths, and a GNN coordinates real-time load balancing. Node behavior validated via ns3 simulations.
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GNN](https://img.shields.io/badge/GNN-8E44AD?style=flat-square)
